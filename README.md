@@ -57,18 +57,6 @@ Most journals quietly fill in what they don't know. KovaFlow doesn't.
 
 You can also log trades by hand.
 
-## Plans
-
-The statistics and the coverage page are **free on every plan**. Paid plans add more history, more connections and automatic sync.
-
-| | **Free** | **Pro** | **Unlimited** |
-|---|---|---|---|
-| History | 6 months | 2 years | Complete |
-| Exchange connections | 2 | 5 | Up to 50 |
-| Sync | When you press it | Every hour | Every hour |
-
-**New accounts get 3 months of Pro for free.** Current prices are on [kovaflow.app](https://kovaflow.app/#pricing).
-
 ## Status
 
 KovaFlow is in **beta**.
